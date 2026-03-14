@@ -6,6 +6,9 @@ A versatile and high-performance **Text-to-Speech (TTS) Utility** built with **F
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id6753011214)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/x0_APwNFH3o/0.jpg)](https://www.youtube.com/watch?v=x0_APwNFH3o)
+
 ## 🌟 Key Features
 - **Extensive Language Support:** Access over 300 voices and languages (depending on device capabilities).
 - **Record & Export:** Capture speech and save it directly as a high-quality **WAV file** for use in other projects.
